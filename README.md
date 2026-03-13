@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Patrice SOSSOU!
+# 👋 Hi, I'm Patrice BATANDEO!
 
 **Aspiring CG Technical Director**  
 Building smarter pipelines, plugins, and automation for the creative industry.
