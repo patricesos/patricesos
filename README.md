@@ -27,4 +27,4 @@ Building smarter pipelines, plugins, and automation for the creative industry.
 ---
 
 > _"I procrastinate by learning."_  
-> Always curious. Always coding.
+> Always curious. Always thinkering.
